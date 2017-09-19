@@ -1,0 +1,196 @@
+/* This is
+a multi-line
+comment */
+
+body {
+    background-color: white;
+}
+
+.class_name {
+    text-align: center;
+    color: red;
+}
+
+#id_name {
+    text-align: center;
+    color: red;
+}
+
+element_name {
+    text-align: center;
+    color: red;
+}
+
+.header {
+}
+
+.bodydiv {
+    width:90%;
+    text-align: center;
+}
+
+.summer_internship {
+    text-align: right;
+}
+
+.table_left_column {
+    text-align: left;
+}
+
+.table_right_column {
+    text-align: right;
+}
+
+.paper {
+}
+
+#university_info {
+}
+
+#bio {
+}
+
+#industry_experience {
+}
+
+#publications {
+}
+
+#personal_projects {
+}
+
+#contact {
+}
+
+
+
+
+
+/* Headers */
+.header
+{
+	background-color: linen;
+}
+
+h1
+{
+	margin-bottom:0px;
+	margin-top:0px;
+	margin-left: 90px;
+}
+
+h1
+.h1header,
+.myName,
+.mySurname
+{
+	font-size:55px;
+	font-weight:bold;
+}
+
+h1
+.h1header,
+.menu,
+.bodyTable,
+.bodyDiv
+{
+	margin-left:90px;
+	margin-right:90px;
+	text-decoration:none;
+}
+
+.redText
+{
+	color:#FF0000;
+	margin-left:40px;
+}
+
+.myName
+{
+	color:#FFCB05;
+}
+
+h1,
+.mySurname
+{
+	color:#0071A9;
+}
+
+.universityInfo
+{
+	color:White;
+	margin-left:30px;
+	margin-right:100px;
+}
+
+h1
+{
+	color:#0088CB; /*blue*/
+	font-weight:normal;
+}
+
+h2
+{
+	color:#0088CB; /*blue*/
+	font-weight:normal;
+}
+
+.header3
+{
+	color:#0088CB;
+	font-size:larger;
+	}
+
+/* Body */
+body
+{
+	font-family: Arial,Helvetica,sans-sern
+}
+
+.bodyTable,
+.bodyTableMiddleColumn
+{
+	text-align:left;
+	vertical-align:top;
+	border-style:solid;
+	border-width:1px;
+	border-color:#E6E6E6;
+	vertical-align:top;
+}
+
+.bodyTableMiddleColumn
+{
+	margin-left:30px;
+	margin-right:30px;
+	border:0;
+}
+
+.publication
+{
+	color:Black;
+	text-decoration:none;
+}
+publication:hover { color: #3366CC; text-decoration: underline}
+
+/* hr and others */
+
+.rightborder
+{
+	border-right: 1px solid #FFFFFF;
+}
+.leftborder
+{
+	border-left: 1px solid #FFFFFF;
+	border-style: dashed;
+}
+
+ul
+{
+	list-style-type:square;
+}
+.footer
+{
+	font-size: 10px;
+	float: right;
+	vertical-align: bottom;
+}
